@@ -1,4 +1,4 @@
-# Day 1, part 1 of advent of code 2023
+# Day 1, part 2 of advent of code 2023
 # This program looks for the first and last numeric or written english digit for every line in the input and then concatenates the two, and finally calculates the sum of all lines.
 
 import os, regex
